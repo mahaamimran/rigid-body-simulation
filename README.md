@@ -13,7 +13,7 @@ This Python project simulates the rigid body rotation using Euler's equations. T
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rigid-body-simulator.git
+git clone https://github.com/mahaamimran/rigid-body-simulator.git
 cd rigid-body-simulator
 ```
 
